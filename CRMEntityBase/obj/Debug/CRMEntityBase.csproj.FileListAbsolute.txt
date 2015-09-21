@@ -1,0 +1,5 @@
+C:\Pages\CRMEntityBase\CRMEntityBase\bin\Debug\CRMEntityBase.dll
+C:\Pages\CRMEntityBase\CRMEntityBase\bin\Debug\CRMEntityBase.pdb
+C:\Pages\CRMEntityBase\CRMEntityBase\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Pages\CRMEntityBase\CRMEntityBase\obj\Debug\CRMEntityBase.dll
+C:\Pages\CRMEntityBase\CRMEntityBase\obj\Debug\CRMEntityBase.pdb
